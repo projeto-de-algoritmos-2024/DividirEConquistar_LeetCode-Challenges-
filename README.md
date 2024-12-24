@@ -26,7 +26,7 @@ Os exercícios abordados são os seguintes
 ## Screenshots
  
 ### Merge k Sorted Lists
-![Merge k Sorted Lists](merge.png)
+![Merge k Sorted Lists](merge_ord.png)
 
 ### Median of Two Sorted Arrays
 ![Median of Two Sorted Arrays](mediana.webp)
