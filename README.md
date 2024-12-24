@@ -38,9 +38,9 @@ Os exercícios abordados são os seguintes
 
 | Problema |
 | ------------------ |
-| [23. Merge k Sorted Lists]()| 
-| [4. Median of Two Sorted Arrays]()| 
-| [43. Median of Two Sorted Arrays]()] |
+| [23. Merge k Sorted Lists](https://youtu.be/XXGN11UpCCY)| 
+| [4. Median of Two Sorted Arrays](https://youtu.be/Qana4pHWjps)| 
+| [43. Multiply Strings](https://youtu.be/z9emiNrRaeA)] |
 
 ## Instalação 
 **Linguagem**: Python
