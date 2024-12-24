@@ -40,7 +40,7 @@ Os exercícios abordados são os seguintes
 | ------------------ |
 | [23. Merge k Sorted Lists](https://youtu.be/XXGN11UpCCY)| 
 | [4. Median of Two Sorted Arrays](https://youtu.be/Qana4pHWjps)| 
-| [43. Multiply Strings](https://youtu.be/z9emiNrRaeA)] |
+| [43. Multiply Strings](https://youtu.be/z9emiNrRaeA) |
 
 ## Instalação 
 **Linguagem**: Python
